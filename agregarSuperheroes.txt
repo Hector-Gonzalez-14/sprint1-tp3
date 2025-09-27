@@ -1,0 +1,93 @@
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "Black Widow",
+    "nombreReal": "Natasha Romanoff",
+    "nombreSociedad": "Vigilante",
+    "edad": 33,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ninguna conocida",
+    "poder": ["Maestría en combate", "Espionaje"],
+    "habilidadEspecial": "Entrenamiento de élite",
+    "aliado": ["Hawkeye"],
+    "enemigo": ["Taskmaster"]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Vigilante",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": ["Fuerza bruta", "Resistencia"],
+    "habilidadEspecial": "Regeneración rápida",
+    "aliado": ["Ironman"],
+    "enemigo": ["Loki"]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Captain America",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Vigilante",
+    "edad": 103,
+    "planetaOrigen": "Tierra",
+    "debilidad": "No tiene habilidades sobrehumanas",
+    "poder": ["Fuerza aumentada", "Agilidad"],
+    "habilidadEspecial": "Escudo indestructible",
+    "aliado": ["Bucky Barnes"],
+    "enemigo": ["Red Skull"]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero Supremo",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Desconocida",
+    "poder": ["Magia", "Teletransportación"],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": ["Wong"],
+    "enemigo": ["Dormammu"]
+  },
+  {
+    "id": 8,
+    "nombreSuperheroe": "Wonder Woman",
+    "nombreReal": "Diana Prince",
+    "nombreSociedad": "Amazonas",
+    "edad": 800,
+    "planetaOrigen": "Themyscira",
+    "debilidad": "Ataduras en sus brazaletes",
+    "poder": ["Super fuerza", "Vuelo", "Resistencia sobrehumana"],
+    "habilidadEspecial": "Lazo de la verdad",
+    "aliado": ["Superman"],
+    "enemigo": ["Ares"]
+  },
+  {
+    "id": 9,
+    "nombreSuperheroe": "Black Panther",
+    "nombreReal": "T'Challa",
+    "nombreSociedad": "Wakanda",
+    "edad": 35,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Orgullo familiar",
+    "poder": ["Fuerza mejorada", "Agilidad felina", "Tecnología avanzada"],
+    "habilidadEspecial": "Traje de vibranium",
+    "aliado": ["Okoye"],
+    "enemigo": ["Killmonger"]
+  },
+  {
+    "id": 10,
+    "nombreSuperheroe": "Scarlet Witch",
+    "nombreReal": "Wanda Maximoff",
+    "nombreSociedad": "Vengadores",
+    "edad": 30,
+    "planetaOrigen": "Sokovia",
+    "debilidad": "Inestabilidad emocional",
+    "poder": ["Magia del caos", "Telekinesis", "Alteración de la realidad"],
+    "habilidadEspecial": "Manipulación de la realidad",
+    "aliado": ["Vision"],
+    "enemigo": ["Agatha Harkness"]
+  }
+]
